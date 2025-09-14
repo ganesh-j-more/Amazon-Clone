@@ -24,3 +24,12 @@ This project replicates the core layout and functionality of Amazon's e-commerce
 ---
 
 ## Project Structure
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│ ├── images/
+│ └── icons/
+└── README.md
+
+---
